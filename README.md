@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/open?id=1Mp1HS2EbklxvvCbSwt4PcGFNEd-t0BoR" title="UFeed Logo" alt="UFeed Logo" align="middle">
+<img src="https://www.freshmorningquotes.com/wp-content/uploads/2015/09/inspirational-facebook-cover-photos-2.jpg" title="UFeed Logo" alt="UFeed Logo" align="middle">
 
 # UFeed
 
