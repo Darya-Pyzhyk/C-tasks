@@ -1,4 +1,4 @@
-<img src="https://www.freshmorningquotes.com/wp-content/uploads/2015/09/inspirational-facebook-cover-photos-2.jpg" title="UFeed Logo" alt="UFeed Logo" align="middle">
+<img src="http://www.ezyplanet.com/res/img/ios_cover.png" title="UFeed Logo" alt="UFeed Logo" align="middle">
 
 # UFeed
 
@@ -53,17 +53,13 @@ Give an example
 
 > Приложение находится в стадии ожидания ответа на запросы пермишенов социльных сетей Facebok и Instagram
 
-Add additional notes about how to deploy this on a live system
+
 
 ## Системные характеристики
 
-* [Swift 4.2](https://swift.org/blog/swift-4-2-released/) - Язык разработки
-* [xCode 10.2](https://developer.apple.com/documentation/xcode_release_notes/xcode_10_2_release_notes/) - Среда разработки
+* [Swift 4.2](https://swift.org/blog/swift-4-2-released/) 
+* [xCode 10.2](https://developer.apple.com/documentation/xcode_release_notes/xcode_10_2_release_notes/)
 
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
@@ -71,18 +67,16 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Авторы
 
-* **Илья Ласый** - *Работа с API социальных сетей, бэк-энд* - [Ilya-Lasy](https://github.com/Misterion777)
+* **Илья Ласый** - [Ilya-Lasy](https://github.com/Misterion777)
 
-* **Дарья Пыжик** - *Фронт-энд* - [Darya-Pyzhyk](https://github.com/Darya-Pyzhyk)
+* **Дарья Пыжик**  - [Darya-Pyzhyk](https://github.com/Darya-Pyzhyk)
 
+> Проект разработан в качестве курсового проекта по предмету "Разработка Программного Обеспечения для Мобильных Платформ" факультета Копьютерных Систем и Сетей.
 
-## Лицензия
+## Ссылки
 
-Проект разработан в качестве курсового проекта по предмету "Разработка Программного Обеспечения для Мобильных Платформ" факультета Копьютерных Систем и Сетей.
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* [Разработчику Вконтакте](https://vk.com/dev)
+* [Разработчику Twitter](https://developer.twitter.com)
+* [Разработчику Facebook](https://developers.facebook.com/docs)
+* [Разработчику Instagram](https://developers.facebook.com/products/instagram/)
 
