@@ -10,6 +10,8 @@
 Данное приложение поможет сэкономить время просмотра актуальных новостей из раличных социальных сетей, убирая необходимость
 перехода между различными приложениями.
 
+<img src="https://pp.userapi.com/c845521/v845521841/1fbaf1/jzw-DNpZC0k.jpg" alt="UFeed Logo" align="middle">
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
